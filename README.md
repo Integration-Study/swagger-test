@@ -31,3 +31,7 @@ dependencies {
 - [TestControllerV2.java](https://github.com/Integration-Study/swagger-test/blob/bdc42d6f258e72a40ba3a9e80dbc01d22c993690/src/main/java/demo/swaggertest/v2/controller/TestV2Controller.java#L17)
 - 그 결과 컨트롤러 코드는 비즈니스 로직에만 집중하게 되며, Swagger와 관련된 코드는 별도의 파일로 분리되어 가독성이 높아진다.
 - 위의 interface를 구현한 컨트롤러 코드에서는 **implements TestControllerV2Docs**만 추가하면, Swagger 관련 코드를 하나도 작성하지 않아도 된다.
+
+## 결과
+![result.png](result.png)
+![result_detail.png](result_detail.png)
