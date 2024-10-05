@@ -15,7 +15,7 @@ dependencies {
 }
 ```
 ### Swagger 설정
-- java/demo/swaggertest/config/SwaggerConfig.java 참고
+- [SwaggerConfig.java](https://github.com/Integration-Study/swagger-test/blob/f638f3fa280e5a41d1836ecd5154f92495c529f8/src/main/java/demo/swaggertest/config/SwaggerConfig.java) 참고
 
 ## V1 ( Controller에 Swagger 적용 )
 ### 코드
